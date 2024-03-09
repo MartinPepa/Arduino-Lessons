@@ -1,4 +1,8 @@
 ## TomasBrigido
+
+**Hello World in C**
+
+```
 #include <stdio.h>
 
 ** Hellow World in C**
@@ -9,4 +13,5 @@ int main() {
     return 0;
 }
 </sub>
+```
 ## MarcosAR94
