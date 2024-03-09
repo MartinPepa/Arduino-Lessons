@@ -8,7 +8,7 @@ Every pull request needs to be aproved before merging and the 'develop' branch i
 
 With this methodology, the progress will be carefully tracked and well documented.
 
-### How to configure .gitmessage.txt
+## How to configure .gitmessage.txt
 
 The message of every commit is a default template and the students may complete it as clearly as possible.
 
@@ -27,6 +27,6 @@ The fields for the commit message are explained as follows:
 - **Related collaborator/s**: In this field write the username of the collaborators who have something to do with this commit. They can be a revisor, coworker, etc. Answer the *Who else?* question.
 - **Related issue/s**: In this field write the number of the issue in which this commit is done. The format is "#\<number\>". For example, for one related issue can be "#7, if there are two "#7, #10".
 
-### Files to ignore with .gitignore
+## Files to ignore with .gitignore
 
 Let's keep it simple. If you have files you want to keep out of track, just locate them in a directory with the name **ignore**.
